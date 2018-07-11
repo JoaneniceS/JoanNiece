@@ -1,0 +1,14 @@
+<main>
+  <title>"Dr. Norman Borlaug"</title>
+  <div id="img-div">
+    <img id="img-FBNSF" src="img/FBNSF.jpg" alt="Funny But Not So Funny Banner"
+     width: 728px;
+     Height: 180px;>
+    <article id="tribute-info">
+      <h2>Dr. Norman</h2>
+        <p>Dr. Borlaug trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</p>
+      <a id="tribute-link" target="_blank">
+      </a>
+    </article>
+  </div>
+</main>
